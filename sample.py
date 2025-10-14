@@ -1,4 +1,5 @@
 a=11
 b=22
 c=33
-console.log('Total Sum':a+b+c)
+d=44
+console.log('Total Sum':a+b+c+d)
